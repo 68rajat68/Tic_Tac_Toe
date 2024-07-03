@@ -42,20 +42,7 @@ Here's an way to get started :
 
 ## Screenshots: See the game in action!
 
-![image_01](https://github.com/68rajat68/Tic_Tac_Toe/assets/160627401/c960aac5-d520-48ed-9bf5-623d55099d13)
-![image_02](https://github.com/68rajat68/Tic_Tac_Toe/assets/160627401/31b65906-b34b-440e-b035-22a695f3963b)
+![image_01](https://github.com/68rajat68/Tic_Tac_Toe/assets/160627401/c960aac5-d520-48ed-9bf5-623d55099d13)     ![image_02](https://github.com/68rajat68/Tic_Tac_Toe/assets/160627401/31b65906-b34b-440e-b035-22a695f3963b)
 
-<table>
-  <tr>
-    <td>Playing the Game</td>
-    <td>Game Draw</td>
-  </tr>
-   <tr>
-      <td>![image_01](https://github.com/68rajat68/Tic_Tac_Toe/assets/160627401/c960aac5-d520-48ed-9bf5-623d55099d13)
-</td>
-      <td>![image_02](https://github.com/68rajat68/Tic_Tac_Toe/assets/160627401/31b65906-b34b-440e-b035-22a695f3963b)
-</td>
-   </tr>
-</table>
 
 
