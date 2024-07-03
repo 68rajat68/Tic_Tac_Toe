@@ -2,7 +2,6 @@
 
 This is a classic two-player Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript.
 
-[![Tic-Tac-Toe Game Screenshot](image_01.png)]
 
 ## Features
 
@@ -40,4 +39,22 @@ Here's an way to get started :
 4. **Enjoy the Game!**
 
    The Tic-Tac-Toe game should now be running in your browser.
+
+## Screenshots
+
+## Screenshots: See the game in action!
+
+<table>
+  <tr>
+    <td>Playing the Game</td>
+    <td>Game Draw</td>
+  </tr>
+   <tr>
+      <td>![image_01](https://github.com/68rajat68/Tic_Tac_Toe/assets/160627401/c960aac5-d520-48ed-9bf5-623d55099d13)
+</td>
+      <td>![image_02](https://github.com/68rajat68/Tic_Tac_Toe/assets/160627401/31b65906-b34b-440e-b035-22a695f3963b)
+</td>
+   </tr>
+</table>
+
 
