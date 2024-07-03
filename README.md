@@ -10,7 +10,7 @@ This is a classic two-player Tic-Tac-Toe game implemented using HTML, CSS, and J
 * Win detection for horizontal, vertical, and diagonal lines
 * Draw detection when the board is full
 
-## Getting Started (Alternative Method)
+## Getting Started
 
 Here's an alternative way to get started if you don't want to use Git:
 
