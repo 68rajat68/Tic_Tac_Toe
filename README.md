@@ -2,6 +2,8 @@
 
 This is a classic two-player Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript.
 
+[![Tic-Tac-Toe Game Screenshot](image_01.png)]
+
 ## Features
 
 * Two-player gameplay
@@ -9,6 +11,12 @@ This is a classic two-player Tic-Tac-Toe game implemented using HTML, CSS, and J
 * Smooth turn-taking logic
 * Win detection for horizontal, vertical, and diagonal lines
 * Draw detection when the board is full
+
+## How to Play
+Players take turns clicking on empty squares on the board.
+
+* The first player to complete a row, column, or diagonal of their symbol (X or O) wins.
+* If all squares are filled without a winner, the game ends in a draw.
 
 ## Getting Started
 
