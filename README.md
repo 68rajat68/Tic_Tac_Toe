@@ -12,7 +12,7 @@ This is a classic two-player Tic-Tac-Toe game implemented using HTML, CSS, and J
 
 ## Getting Started
 
-Here's an alternative way to get started if you don't want to use Git:
+Here's an way to get started if you don't want to use Git:
 
 1. **Download the Zip File:**
 
