@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-This is a classic two-player Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript.
+This is a classic two-player Tic-Tac-Toe game implemented using HTML, CSS and JavaScript.
 
 
 ## Features
